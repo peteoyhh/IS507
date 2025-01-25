@@ -1,0 +1,12 @@
+2024-12-13 18:23:31,591 - INFO - Model trained in 47.31 seconds with 37688 samples.
+2024-12-13 18:23:31,593 - INFO - Training RMSE: 1.05
+2024-12-13 18:26:22,298 - INFO - Model trained in 44.85 seconds with 37688 samples.
+2024-12-13 18:26:22,300 - INFO - Training RMSE: 1.05
+2024-12-13 18:33:15,578 - INFO - Model trained in 44.96 seconds with 37688 samples.
+2024-12-13 18:33:15,581 - INFO - Training RMSE: 1.05
+2024-12-13 18:36:02,432 - INFO - Model trained in 44.76 seconds with 37688 samples.
+2024-12-13 18:36:02,435 - INFO - Training RMSE: 1.05
+2024-12-13 19:11:42,575 - INFO - Model trained in 56.50 seconds with 37688 samples.
+2024-12-13 19:11:42,578 - INFO - Training RMSE: 1.05
+2024-12-13 19:15:22,820 - INFO - Model trained in 51.23 seconds with 37688 samples.
+2024-12-13 19:15:22,823 - INFO - Training RMSE: 1.05
